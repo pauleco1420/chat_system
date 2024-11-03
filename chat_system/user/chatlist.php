@@ -1,6 +1,6 @@
 <div class="col-lg-8">
     <div class="panel panel-default" style="height:50px;">
-		<span style="font-size:18px; margin-left:10px; position:relative; top:13px;"><strong><span class="glyphicon glyphicon-list"></span> List of Chat Rooms</strong></span>
+		<span style="font-size:18px; margin-left:10px; position:relative; top:13px;"><strong><span class="glyphicon glyphicon-list"></span> List of Chat Roomsssssss</strong></span>
 		<div class="pull-right" style="margin-right:10px; margin-top:7px;">
 			<a href="#add_chatroom" data-toggle="modal" class="btn btn-primary"><span class="glyphicon glyphicon-plus"></span> Add</a>
 		</div>
