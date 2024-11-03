@@ -8,7 +8,7 @@
 	<table width="100%" class="table table-striped table-bordered table-hover" id="chatRoom">
         <thead>
             <tr>
-                <th>Chat Room Name</th>
+                <th>Chat Room Names</th>
                 <th>Password</th>
 				<th>Date Created</th>
 				<th>Action</th>
